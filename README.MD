@@ -32,7 +32,7 @@ Upon completion of each project, I shall compare my solution with Brad's and wri
 
 ---
 
-##About this Project
+## About this Project
 
 ### What I have learnt from this project:
 
