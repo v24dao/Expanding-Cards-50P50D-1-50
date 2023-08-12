@@ -2,7 +2,7 @@
 
 This project is part of the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://github.com/bradtraversy).
 
-##Table of contents
+## Table of contents
 
 - [About the course](#about-the-course)
   - [Why am I completing this course?](#why-am-I-starting-this-course)
