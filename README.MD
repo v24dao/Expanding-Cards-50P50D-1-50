@@ -5,12 +5,13 @@ This project is part of the [50 Projects In 50 Days - HTML, CSS & JavaScript](ht
 ## Table of contents
 
 - [About the course](#about-the-course)
-  - [Reasons for completing the course](#why-am-I-starting-this-course)
+  - [Reasons for completing the course](#why-i-am-completing-this-course)
   - [My approach](#my-approach-to-the-projects-in-this-course)
 - [About this project](#about-this-project)
   - [What I learned](#what-i-learned)
   - [Useful Resources](#useful-resources)
   - [Continued Development](#continued-development)
+  - [Live Link](#live-link)
 
 ---
 
