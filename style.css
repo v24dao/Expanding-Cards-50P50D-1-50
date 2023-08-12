@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  width: 90vw;
+}
+
+.panel {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  border-radius: 50px;
+  color: #fff;
+  cursor: pointer;
+  /* We change this to something much higher... such as flex:5 for the active class! This is how we make it expand. */
+  flex: 0.5;
+  margin: 10px;
+  /* Make panel position relative so that we can position the h3 text absolute! */
+  position: relative;
+  /* Transition for when flex is changed*/
+  transition: flex 0.7s ease-in;
+}
+
+.panel h3 {
+  font-size: 24px;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  margin: 0;
+  /* So that h3 is only shown when panel is active! */
+  opacity: 0;
+}
+
+.panel.active {
+  flex: 5;
+}
+
+.panel.active h3 {
+  opacity: 1;
+}
+
+/* If screen is really small, we only want 3 cards to show */
+
+@media (max-width: 480px) {
+  .container {
+    width: 100vw;
+  }
+
+  /* 4th and 5th divs with the class "panel" are removed! */
+  .panel:nth-of-type(4),
+  .panel:nth-of-type(5) {
+    display: none;
+  }
+}
