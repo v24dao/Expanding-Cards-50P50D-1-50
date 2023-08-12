@@ -1,14 +1,10 @@
 # Expanding Cards (1/50)
 
----
-
 This project is part of the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://github.com/bradtraversy).
 
 ---
 
 ## About the course:
-
----
 
 ##### Why I am completing this course?:
 
