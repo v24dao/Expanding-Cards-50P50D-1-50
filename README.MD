@@ -5,7 +5,7 @@ This project is part of the [50 Projects In 50 Days - HTML, CSS & JavaScript](ht
 ## Table of contents
 
 - [About the course](#about-the-course)
-  - [Why am I completing this course?](#why-am-I-starting-this-course)
+  - [Reasons for completing the course](#why-am-I-starting-this-course)
   - [My approach](#my-approach-to-the-projects-in-this-course)
 - [About this project](#about-this-project)
   - [What I learned](#what-i-learned)
@@ -21,7 +21,7 @@ This project is part of the [50 Projects In 50 Days - HTML, CSS & JavaScript](ht
 - To maintain a high level of familiarity with vanilla HTML & CSS, whilst working on other projects that use Bootstrap and TailwindCSS.
 - To learn about new JavaScript concepts and to actively apply the JavScript concepts which I already know.
 
-### My approach to the projects in this course:
+### My approach to the projects in this course
 
 In regards to the JavaScript portions of these projects, I aim to complete as much as possible without reference to the corresponding videos.
 
@@ -37,15 +37,21 @@ Upon completion of each project, I shall compare my solution with Brad's and wri
 
 ## About this Project
 
-### What I learned:
+### What I learned
 
-- Initially, I tried to use the `.querySelector` method to target the panels.
-- However, I realised
+- Initially, I tried to use the `.querySelector` method to target the panels. However, I was only able to target the first panel.
+- I needed to use the `.querySelectorAll` method to create a "NodeList" of the panels
+- The next step would be to use the `.forEach` method to target the individual panels.
 
-### Useful resources:
+### Useful resources
+
+- `.querySelectorAll` : [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
+- `.forEach` : [w3schools](https://www.w3schools.com/jsref/jsref_foreach.asp)
+
+### Continued development
 
 -
 
-### Continued development:
+### Live Link:
 
--
+[Project Name](https://google.com/search?q=)
