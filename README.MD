@@ -2,11 +2,18 @@
 
 This project is part of the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://github.com/bradtraversy).
 
+##Table of contents
+
+- [About the course](#about-the-course)
+  - [Why am I completing this course?](#why-am-I-starting-this-course)
+  - [My approach](#my-approach-to-the-projects-in-this-course)
+- [About this project](#about-this-project)
+
 ---
 
 ## About the course:
 
-### Why I am completing this course?:
+### Why I am completing this course?
 
 - To maintain a high level of familiarity with vanilla HTML & CSS, whilst working on other projects that use Bootstrap and TailwindCSS.
 - To learn about new JavaScript concepts and to actively apply the JavScript concepts which I already know.
@@ -25,11 +32,17 @@ Upon completion of each project, I shall compare my solution with Brad's and wri
 
 ---
 
-### What I learned from this project:
+##About this Project
+
+### What I have learnt from this project:
 
 - Initially, I tried to use the `.querySelector` method to target the panels.
 - However, I realised
 
 ### Useful resources:
+
+-
+
+### Continued development:
 
 -
