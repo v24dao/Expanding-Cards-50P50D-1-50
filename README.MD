@@ -8,6 +8,9 @@ This project is part of the [50 Projects In 50 Days - HTML, CSS & JavaScript](ht
   - [Why am I completing this course?](#why-am-I-starting-this-course)
   - [My approach](#my-approach-to-the-projects-in-this-course)
 - [About this project](#about-this-project)
+  - [What I learned](#what-i-learned)
+  - [Useful Resources](#useful-resources)
+  - [Continued Development](#continued-development)
 
 ---
 
@@ -34,7 +37,7 @@ Upon completion of each project, I shall compare my solution with Brad's and wri
 
 ## About this Project
 
-### What I have learnt from this project:
+### What I learned:
 
 - Initially, I tried to use the `.querySelector` method to target the panels.
 - However, I realised
